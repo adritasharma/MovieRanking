@@ -1,0 +1,9 @@
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\bin\Debug\netcoreapp2.1\MovieRankContracts.deps.json
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\bin\Debug\netcoreapp2.1\MovieRankContracts.dll
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\obj\Debug\netcoreapp2.1\MovieRankContracts.csprojAssemblyReference.cache
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\obj\Debug\netcoreapp2.1\MovieRankContracts.csproj.CoreCompileInputs.cache
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\obj\Debug\netcoreapp2.1\MovieRankContracts.AssemblyInfoInputs.cache
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\obj\Debug\netcoreapp2.1\MovieRankContracts.AssemblyInfo.cs
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\bin\Debug\netcoreapp2.1\MovieRankContracts.pdb
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\obj\Debug\netcoreapp2.1\MovieRankContracts.dll
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRankContracts\obj\Debug\netcoreapp2.1\MovieRankContracts.pdb

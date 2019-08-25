@@ -1,0 +1,12 @@
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\bin\Debug\netcoreapp2.1\MovieRAnkLibs.deps.json
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\bin\Debug\netcoreapp2.1\MovieRAnkLibs.dll
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.csproj.CoreCompileInputs.cache
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.AssemblyInfoInputs.cache
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.AssemblyInfo.cs
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.csprojAssemblyReference.cache
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\bin\Debug\netcoreapp2.1\MovieRAnkLibs.pdb
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\bin\Debug\netcoreapp2.1\MovieRankContracts.dll
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\bin\Debug\netcoreapp2.1\MovieRankContracts.pdb
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.csproj.CopyComplete
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.dll
+F:\Angular6\GitHub\DynamoDB\MovieRanking\MovieRank\MovieRAnkLibs\obj\Debug\netcoreapp2.1\MovieRAnkLibs.pdb
