@@ -28,3 +28,11 @@ using (var client = new AmazonDynamoDBClient())
    }
 }
 ```
+
+### Scan and Query
+
+To retrieve data from DynamoDBm we can use 2 options **Scan** and **Query** function.
+
+**Scan** : Reads all item in table but comes at a cost. All items are read before the filter is applied.
+
+**Query** : Reads items more efficiently, but we must add the Partition key and optionally the sort key to the correct attributes.
