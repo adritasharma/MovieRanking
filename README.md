@@ -51,6 +51,27 @@ In order to use DataModel with DynamoDB, some attributes from Amazon.DynamoDBv2.
 
 To retrieve data from DynamoDBm we can use 2 options **Scan** and **Query** function.
 
-**Scan** : Reads all item in table but comes at a cost. All items are read before the filter is applied.
+- **Scan** : Reads all item in table but comes at a cost. All items are read before the filter is applied.
+```
+     public async Task<IEnumerable<MovieDb>> GetAllItems()
+     {
+        return await _dbContext.ScanAsync<MovieDb>(new List<ScanCondition>()).GetRemainingAsync();
+     }
 
-**Query** : Reads items more efficiently, but we must add the Partition key and optionally the sort key to the correct attributes.
+```
+
+- **Query** : Reads items more efficiently, but we must add the Partition key and optionally the sort key to the correct attributes.
+```
+        public async Task<IEnumerable<MovieDb>> GetUserRankedMoviesByMovieTitle(int userId, string movieName)
+        {
+            var config = new DynamoDBOperationConfig
+            {
+                QueryFilter = new List<ScanCondition>
+                {
+                    new ScanCondition("MovieName", ScanOperator.BeginsWith, movieName)
+                }
+            };
+            return await _dbContext.QueryAsync<MovieDb>(userId, config).GetRemainingAsync();
+
+        }
+```
